@@ -24,7 +24,7 @@ Electron17+Create-React-App5.0+Antd搭建标准Electron工程脚手架。
 
 花20分钟时间按照教程一步一步搭建，即可全面掌握项目细节，请关注作者**微信公众号「卧梅又闻花」**，阅读完整版文章：
 
-《2022新春版：手把手教你搭建Electron17+React17+Antd架构工程》
+[《2022新春版：手把手教你搭建Electron17+React17+Antd架构工程》](https://mp.weixin.qq.com/s/OTbIduwYl31oJmLgTR-SIg)
 
 
 😃😃
